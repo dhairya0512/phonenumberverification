@@ -1,0 +1,105 @@
+{
+  "project_info": {
+    "project_number": "745298015108",
+    "project_id": "prototypes-fd097",
+    "storage_bucket": "prototypes-fd097.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745298015108:android:1256096dab976d03b6e3d1",
+        "android_client_info": {
+          "package_name": "dhairyapandya.com.otpverification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "745298015108-ap8jokttv13m21uq6o07sj2j5egmect7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAp12wbFmo1luBadPgFiq_G7T1178du1ZY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "745298015108-ap8jokttv13m21uq6o07sj2j5egmect7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745298015108:android:f21fbb0d782dee2bb6e3d1",
+        "android_client_info": {
+          "package_name": "dhairyapandya.com.phonenoauthentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "745298015108-elq0skishrc66odh68rtmnk2vrk3ojt1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dhairyapandya.com.phonenoauthentication",
+            "certificate_hash": "3164bdeb096ac57507192f50ddca0b5377d9ce66"
+          }
+        },
+        {
+          "client_id": "745298015108-ap8jokttv13m21uq6o07sj2j5egmect7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAp12wbFmo1luBadPgFiq_G7T1178du1ZY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "745298015108-ap8jokttv13m21uq6o07sj2j5egmect7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745298015108:android:c5d7fb14b5d3fd1db6e3d1",
+        "android_client_info": {
+          "package_name": "dhairyapandya.com.pushnotifications"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "745298015108-ap8jokttv13m21uq6o07sj2j5egmect7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAp12wbFmo1luBadPgFiq_G7T1178du1ZY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "745298015108-ap8jokttv13m21uq6o07sj2j5egmect7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
